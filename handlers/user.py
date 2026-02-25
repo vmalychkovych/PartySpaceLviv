@@ -108,3 +108,18 @@ async def back_to_menu(message: Message):
         "👋 Головне меню:",
         reply_markup=kb.get_start_menu(message.from_user.id)
     )
+
+
+
+@router.message(Command("myid"))
+async def cmd_myid(message: Message):
+    # Отримуємо ID користувача та формуємо гарну відповідь
+    user_id = message.from_user.id
+
+    response_text = (
+        f"👤 **Інформація про профіль**\n\n"
+        f"🆔 Ваш Telegram ID: <code>{user_id}</code>\n\n"
+        f"<i>Ви можете натиснути на ID, щоб скопіювати його.</i>"
+    )
+
+    await message.answer(response_text, parse_mode="HTML")

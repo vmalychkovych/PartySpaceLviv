@@ -193,7 +193,6 @@ async def manage_moderators(message: Message):
         f"🔍 *Як отримати ID користувача:*\n"
         f"1. Користувач має написати боту\n"
         f"2. Використати команду /myid\n"
-        f"3. Переслати повідомлення в @userinfobot\n\n"
         f"👇 *Оберіть дію:*"
     )
 
