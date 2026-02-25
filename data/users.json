@@ -1,0 +1,65 @@
+{
+    "554572834": {
+        "user_id": 554572834,
+        "username": "vmalychkovych",
+        "first_name": "Вітя",
+        "last_name": "Маличкович",
+        "subscribed": true,
+        "created_at": "2026-02-08 18:46:59",
+        "last_activity": "2026-02-24 16:55:07.223237"
+    },
+    "8501387082": {
+        "user_id": 8501387082,
+        "username": "vrubai_ua",
+        "first_name": "Врубай",
+        "last_name": null,
+        "subscribed": true,
+        "first_seen": "2026-02-16 14:46:55.975850",
+        "last_activity": "2026-02-16 15:11:03.304066"
+    },
+    "501040763": {
+        "user_id": 501040763,
+        "username": "Alextyschuk",
+        "first_name": "Alex",
+        "last_name": "Tyschuk",
+        "subscribed": true,
+        "first_seen": "2026-02-16 15:07:42.113705",
+        "last_activity": "2026-02-16 15:07:42.113713"
+    },
+    "851800980": {
+        "user_id": 851800980,
+        "username": "irrenochkka",
+        "first_name": "Irēne",
+        "last_name": null,
+        "subscribed": true,
+        "first_seen": "2026-02-16 15:21:49.337858",
+        "last_activity": "2026-02-16 15:21:49.337888"
+    },
+    "904469346": {
+        "user_id": 904469346,
+        "username": "Talisman1_3",
+        "first_name": "Василь",
+        "last_name": "Сакаль",
+        "subscribed": true,
+        "first_seen": "2026-02-16 15:30:05.036341",
+        "last_activity": "2026-02-16 15:30:05.036370"
+    },
+    "5061029754": {
+        "user_id": 5061029754,
+        "username": null,
+        "first_name": "💕",
+        "last_name": "💕",
+        "subscribed": true,
+        "first_seen": "2026-02-16 15:16:45.161539",
+        "last_activity": "2026-02-16 15:16:45.161577"
+    },
+    "746869498": {
+        "user_id": 746869498,
+        "username": "Rick21_4",
+        "first_name": "Руслан",
+        "last_name": null,
+        "subscribed": true,
+        "first_seen": "2026-02-16 15:18:59.805605",
+        "last_activity": "2026-02-16 15:18:59.805617"
+    }
+}
